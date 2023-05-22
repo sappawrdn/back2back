@@ -181,3 +181,20 @@ p#garis {
     transform: scale(1.2);
   }
   
+  .text-truncate {
+    font-family: 'Inter';
+    font-weight: 900;
+  }
+
+  .m-0 {
+    font-family: 'Inter';
+    font-size: 12px;
+    text-align: justify;
+    padding: 2px;
+    opacity: 75%;
+  }
+
+  .team-item {
+    border-radius: 10px; /* Adjust the value as desired */
+  }
+  
