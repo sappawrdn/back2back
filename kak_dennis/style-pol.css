@@ -64,8 +64,6 @@ p#garis {
 
 .card {
     margin-top: 10px;
-    margin-left: 17px;
-    height: 230px;
     border: none;
 }
 .card-link {
@@ -82,7 +80,6 @@ p#garis {
 
     line-height: 89.8%;
     margin-top: 12px;
-    margin-left: -0.2px;
     font-family: 'Playfair';
     font-weight: 900;
 }
@@ -90,7 +87,6 @@ p#garis {
 .card-text {
     font-family: 'Inter';
     line-height: 127.3%;
-    margin-left: -29px;
     font-size: 13px;
     opacity: 75%;
 }
