@@ -21,8 +21,10 @@ p#garis {
 
 .nav-link{
     font-family: 'Inter';
+    font-size: 15px;
+    font-weight: 500;
     color: black;
-    margin-right: 19px;
+    margin-right: 10px;
 }
 
 .navbar-nav .nav-item .nav-link.active {
@@ -64,7 +66,7 @@ p#garis {
 
 .card {
     margin-top: 10px;
-    border: none;
+    
 }
 .card-link {
     color: #000; 
@@ -87,8 +89,12 @@ p#garis {
 .card-text {
     font-family: 'Inter';
     line-height: 127.3%;
-    font-size: 13px;
+    font-size: 11px;
     opacity: 75%;
+}
+
+.card-text .text-muted {
+  font-family: 'Inter';
 }
 
 .btn-primary {
