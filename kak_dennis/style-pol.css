@@ -66,8 +66,10 @@ p#garis {
 
 .card {
     margin-top: 10px;
-    
+    border: none;
 }
+
+
 .card-link {
     color: #000; 
     text-decoration: none; 

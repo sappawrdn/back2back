@@ -64,7 +64,6 @@ p#garis {
 
 .card {
     margin-top: 50px;
-    margin-left: 35px;
     height: 230px;
     border: none;
 }
@@ -74,21 +73,18 @@ p#garis {
 }
 
 .card-title {
-    margin-top: -17px;
-    margin-left: -40px;
+    padding-top: -30px;
     font-family: 'Playfair';
     font-weight: 900;
 }
 
 .card-text {
     font-family: 'Inter';
-    margin-left: -40px;
     font-size: 13px;
     opacity: 75%;
 }
 
 .btn-primary {
-    margin-left: -41px;
     margin-top: 3px;
     background-color: white;
     color: black;
